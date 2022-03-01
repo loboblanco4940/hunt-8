@@ -1,2 +1,2 @@
-# hunt-8
-amsdiasndiadsndsainisadnidajs
+# Proyecto-Osos-Emma
+Librerias Preparadas
